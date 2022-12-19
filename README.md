@@ -1,4 +1,4 @@
 #learninggit
 
 
-from some carsh course 
+from some carsh lessons  
